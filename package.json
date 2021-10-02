@@ -1,0 +1,23 @@
+{
+  "name": "borodinsky",
+  "version": "1.0.0",
+  "description": "Учебный проект барбершоп \"Borodynski\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "edit": "editorconfig-checker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktoria-Loboda/Borodinsky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viktoria-Loboda/Borodinsky/issues"
+  },
+  "homepage": "https://github.com/Viktoria-Loboda/Borodinsky#readme",
+  "devDependencies": {
+    "editorconfig-checker": "^4.0.2"
+  }
+}
