@@ -8,3 +8,5 @@ function app() {
     console.log(pop);
   }
 }
+
+console.log('hi');
